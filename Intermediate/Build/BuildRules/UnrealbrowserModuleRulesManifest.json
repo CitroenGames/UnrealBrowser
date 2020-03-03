@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"H:\\projects\\WebBrowser\\Intermediate\\Source\\Unrealbrowser.Build.cs",
+		"H:\\projects\\WebBrowser\\Intermediate\\Source\\WebBrowser.Build.cs",
+		"H:\\projects\\WebBrowser\\Intermediate\\Source\\Unrealbrowser.Target.cs",
+		"H:\\projects\\WebBrowser\\Intermediate\\Source\\WebBrowser.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}

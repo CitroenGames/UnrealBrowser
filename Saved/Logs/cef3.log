@@ -1,0 +1,20 @@
+[0214/093646.900:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0214/093646.900:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0214/093647.068:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0214/093647.068:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0218/005436.320:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0218/005436.320:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0218/005436.446:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0218/005436.446:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0218/005458.972:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0218/005458.972:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0218/005459.082:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0218/005459.082:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0218/005631.053:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0218/005631.073:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=1
+[0218/005631.073:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0218/005712.145:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0218/012321.698:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0218/012321.698:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0218/012321.828:WARNING:extension_protocols.cc(464)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0218/012321.828:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
